@@ -16,10 +16,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/VanshVerse/Leetcode/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/VanshVerse/Leetcode/tree/master/0014-longest-common-prefix) |
 ## Array
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/VanshVerse/Leetcode/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/VanshVerse/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0035-search-insert-position](https://github.com/VanshVerse/Leetcode/tree/master/0035-search-insert-position) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/VanshVerse/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/VanshVerse/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -44,4 +46,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0977-squares-of-a-sorted-array](https://github.com/VanshVerse/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/VanshVerse/Leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
