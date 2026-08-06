@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/VanshVerse/Leetcode/tree/master/0035-search-insert-position) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/VanshVerse/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0283-move-zeroes](https://github.com/VanshVerse/Leetcode/tree/master/0283-move-zeroes) |
+| [0977-squares-of-a-sorted-array](https://github.com/VanshVerse/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -31,8 +32,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/VanshVerse/Leetcode/tree/master/0283-move-zeroes) |
+| [0977-squares-of-a-sorted-array](https://github.com/VanshVerse/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Binary Search
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/VanshVerse/Leetcode/tree/master/0035-search-insert-position) |
+## Sorting
+|  |
+| ------- |
+| [0977-squares-of-a-sorted-array](https://github.com/VanshVerse/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 <!---LeetCode Topics End-->
