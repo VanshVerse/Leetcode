@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/VanshVerse/Leetcode/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/VanshVerse/Leetcode/tree/master/0414-third-maximum-number) |
 | [0605-can-place-flowers](https://github.com/VanshVerse/Leetcode/tree/master/0605-can-place-flowers) |
+| [0713-subarray-product-less-than-k](https://github.com/VanshVerse/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/VanshVerse/Leetcode/tree/master/0724-find-pivot-index) |
 | [0977-squares-of-a-sorted-array](https://github.com/VanshVerse/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1480-running-sum-of-1d-array](https://github.com/VanshVerse/Leetcode/tree/master/1480-running-sum-of-1d-array) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/VanshVerse/Leetcode/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/VanshVerse/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0713-subarray-product-less-than-k](https://github.com/VanshVerse/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 ## Sorting
 |  |
 | ------- |
@@ -96,10 +98,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0713-subarray-product-less-than-k](https://github.com/VanshVerse/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/VanshVerse/Leetcode/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/VanshVerse/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 ## Greedy
 |  |
 | ------- |
 | [0605-can-place-flowers](https://github.com/VanshVerse/Leetcode/tree/master/0605-can-place-flowers) |
+## Sliding Window
+|  |
+| ------- |
+| [0713-subarray-product-less-than-k](https://github.com/VanshVerse/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 <!---LeetCode Topics End-->
