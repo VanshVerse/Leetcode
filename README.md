@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/VanshVerse/Leetcode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/VanshVerse/Leetcode/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/VanshVerse/Leetcode/tree/master/0169-majority-element) |
+| [0930-binary-subarrays-with-sum](https://github.com/VanshVerse/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 ## Math
 |  |
 | ------- |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/VanshVerse/Leetcode/tree/master/0605-can-place-flowers) |
 | [0713-subarray-product-less-than-k](https://github.com/VanshVerse/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/VanshVerse/Leetcode/tree/master/0724-find-pivot-index) |
+| [0930-binary-subarrays-with-sum](https://github.com/VanshVerse/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [0977-squares-of-a-sorted-array](https://github.com/VanshVerse/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1480-running-sum-of-1d-array](https://github.com/VanshVerse/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 ## Dynamic Programming
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/VanshVerse/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/VanshVerse/Leetcode/tree/master/0724-find-pivot-index) |
+| [0930-binary-subarrays-with-sum](https://github.com/VanshVerse/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/VanshVerse/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 ## Greedy
 |  |
@@ -109,4 +112,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/VanshVerse/Leetcode/tree/master/0713-subarray-product-less-than-k) |
+| [0930-binary-subarrays-with-sum](https://github.com/VanshVerse/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 <!---LeetCode Topics End-->
