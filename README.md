@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/VanshVerse/Leetcode/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/VanshVerse/Leetcode/tree/master/0414-third-maximum-number) |
 | [0605-can-place-flowers](https://github.com/VanshVerse/Leetcode/tree/master/0605-can-place-flowers) |
+| [0704-binary-search](https://github.com/VanshVerse/Leetcode/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/VanshVerse/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/VanshVerse/Leetcode/tree/master/0724-find-pivot-index) |
 | [0930-binary-subarrays-with-sum](https://github.com/VanshVerse/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/VanshVerse/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/VanshVerse/Leetcode/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/VanshVerse/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0704-binary-search](https://github.com/VanshVerse/Leetcode/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/VanshVerse/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 ## Sorting
 |  |
