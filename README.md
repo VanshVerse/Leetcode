@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/VanshVerse/Leetcode/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/VanshVerse/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/VanshVerse/Leetcode/tree/master/0724-find-pivot-index) |
+| [0905-sort-array-by-parity](https://github.com/VanshVerse/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [0930-binary-subarrays-with-sum](https://github.com/VanshVerse/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [0977-squares-of-a-sorted-array](https://github.com/VanshVerse/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1480-running-sum-of-1d-array](https://github.com/VanshVerse/Leetcode/tree/master/1480-running-sum-of-1d-array) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/VanshVerse/Leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/VanshVerse/Leetcode/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/VanshVerse/Leetcode/tree/master/0392-is-subsequence) |
+| [0905-sort-array-by-parity](https://github.com/VanshVerse/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/VanshVerse/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1768-merge-strings-alternately](https://github.com/VanshVerse/Leetcode/tree/master/1768-merge-strings-alternately) |
 ## Binary Search
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/VanshVerse/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/VanshVerse/Leetcode/tree/master/0169-majority-element) |
 | [0414-third-maximum-number](https://github.com/VanshVerse/Leetcode/tree/master/0414-third-maximum-number) |
+| [0905-sort-array-by-parity](https://github.com/VanshVerse/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/VanshVerse/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Trie
 |  |
