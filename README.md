@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/VanshVerse/Leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/VanshVerse/Leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/VanshVerse/Leetcode/tree/master/0070-climbing-stairs) |
+| [0189-rotate-array](https://github.com/VanshVerse/Leetcode/tree/master/0189-rotate-array) |
 ## String
 |  |
 | ------- |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/VanshVerse/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/VanshVerse/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/VanshVerse/Leetcode/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/VanshVerse/Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/VanshVerse/Leetcode/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/VanshVerse/Leetcode/tree/master/0414-third-maximum-number) |
 | [0605-can-place-flowers](https://github.com/VanshVerse/Leetcode/tree/master/0605-can-place-flowers) |
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/VanshVerse/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/VanshVerse/Leetcode/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/VanshVerse/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/VanshVerse/Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/VanshVerse/Leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/VanshVerse/Leetcode/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/VanshVerse/Leetcode/tree/master/0392-is-subsequence) |
