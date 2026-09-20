@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/VanshVerse/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [0977-squares-of-a-sorted-array](https://github.com/VanshVerse/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1480-running-sum-of-1d-array](https://github.com/VanshVerse/Leetcode/tree/master/1480-running-sum-of-1d-array) |
+| [1929-concatenation-of-array](https://github.com/VanshVerse/Leetcode/tree/master/1929-concatenation-of-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -183,4 +184,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/VanshVerse/Leetcode/tree/master/0155-min-stack) |
+## Simulation
+|  |
+| ------- |
+| [1929-concatenation-of-array](https://github.com/VanshVerse/Leetcode/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->
